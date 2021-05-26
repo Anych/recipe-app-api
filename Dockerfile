@@ -1,4 +1,4 @@
-FROM python:3.9.5-alpine
+FROM python:3.6-alpine
 MAINTAINER Umarov Anuarbek
 
 ENV PYTHONUNBUFFERED 1
